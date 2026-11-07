@@ -1,0 +1,33 @@
+
+header {
+    background-color: rgba(216, 241, 238, 0.778); 
+    margin-bottom: -30px;
+    max: block size 200px;
+    border-style: outset;
+}
+.intro {
+max-width: 500px; 
+color: rgb(65, 71, 78);
+padding-left: 180px;
+padding-bottom: 40px;
+margin-top: -150px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: rgb(65, 71, 78);
+    background-color: rgb(216, 241, 238, 0.778);
+}
+footer {
+    color: ffff;
+    background-color: rgb(216, 241, 238, 0.778);
+}
+.border-radius {
+    border-color: rgb(65, 71, 78);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 80%;
+    margin-top: 10px;  
+}
+
